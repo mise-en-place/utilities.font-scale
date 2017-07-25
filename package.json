@@ -1,5 +1,5 @@
 {
-  "name": "mep-utilities.font-scale",
+  "name": "@mise-en-place/utilities.font-scale",
   "version": "2.0.0",
   "description": "Font Scale Utility",
   "main": "stylesheets/_utility-font-scale.scss",
@@ -14,6 +14,6 @@
   "author": "Kind",
   "license": "MIT",
   "dependencies": {
-    "mep-tools.font-scale": "github:mise-en-place/tools.font-scale"
+    "@mise-en-place/tools.font-scale": "~3.0.0"
   }
 }
