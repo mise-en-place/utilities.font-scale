@@ -1,6 +1,6 @@
 {
   "name": "@mise-en-place/utilities.font-scale",
-  "version": "2.0.0",
+  "version": "3.0.0",
   "description": "Font Scale Utility",
   "main": "stylesheets/_utility-font-scale.scss",
   "keywords": [
